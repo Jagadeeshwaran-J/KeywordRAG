@@ -7,7 +7,7 @@ chunks to an OpenAI-compatible LLM server.
 
 ## Requirements
 
-- Python 3.12 or later
+- Python 3.12
 - [uv](https://docs.astral.sh/uv/)
 - An OpenAI-compatible LLM server
 

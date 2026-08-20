@@ -1,0 +1,3 @@
+openai
+PyMuPDF
+rank-bm25
